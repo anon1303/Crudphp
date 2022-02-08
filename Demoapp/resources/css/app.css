@@ -1,0 +1,16 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+
+
+
+@layer base{
+	.btn-danger {
+	    color: #fff;
+	    background-color: #dc3545 !important;
+	    border-color: #dc3545;
+	}
+}
